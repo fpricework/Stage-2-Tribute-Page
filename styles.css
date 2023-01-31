@@ -1,1 +1,61 @@
-/* Copy and paste your CSS from CodePen into here */
+body
+{
+  margin: 1em 2em 1em 2em;
+  background-image: url("https://th.bing.com/th/id/R.f17e098720a38f2d4188e88923439d2f?rik=WI%2bcYnauu108pQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f1%2fa%2f0%2f1086964-vertical-mechanic-wallpapers-1920x1080-free-download.jpg&ehk=0v%2bqyPa02FuCPYb9q21Bwn6b0umvFQ%2bSs4kDiPlqCEg%3d&risl=&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-div
+{
+  background-color: #FDFFFE99;
+  border: 1px solid #C1E7D499;
+  border-radius: 1.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#img-div
+{
+  background-color: #DAE4DF;
+  border: 1.5px solid #55816B;
+  border-radius: 2px;
+}
+
+#image
+{
+  max-width: 30em;
+  height: 20em;
+}
+
+#img-caption
+{
+  font-size: 0.75em;
+  text-align: right;
+  line-height: 1.5em;
+  padding: 0 2px 0 0;
+}
+
+#twitter-icon
+{
+  max-width: 1em;
+  height: 1em;
+}
+
+.link
+{
+  line-height: 1.5em;
+  align-items: right;
+}
+
+h2
+{
+  font-size: 1.3em;
+}
+
+#tribute-info
+{
+  font-size: 1.25em;
+}
